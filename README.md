@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1d86&height=120&section=head"/>
 
 
-<h1>Olá,<br>Me chamo Felipe 🚀</h1>
+<h1>Hello World!<br>My name is Felipe 🚀</h1>
 
-<p align="center">Desde a minha infância, minha paixão pela tecnologia tem sido o fio condutor que moldou meu percurso, culminando no meu atual curso de <strong>Sistemas de Informação</strong>. Como <strong>Desenvolvedor Back-end</strong>, encontro satisfação em desvendar desafios e resolver problemas, alimentando assim minha constante busca por conhecimento e excelência nesse vasto mundo da tencologia.</p>&nbsp;
+<p align="center">Since my childhood, my passion for technology has been the guiding thread that shaped my path, culminating in my current <strong>Information Systems</strong> course. As a <strong>Back-end Developer</strong>, I find satisfaction in unveiling challenges and solving problems, thus fueling my constant search for knowledge and excellence in this vast world of technology.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=felipejosesoares&show_icons=true&theme=algolia" />
